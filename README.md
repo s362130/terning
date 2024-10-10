@@ -24,4 +24,5 @@ Til slutt koblet jeg kretsen på et prototypkort med innebygget justerbar klokke
 
 ## Appendix F
 ![Fysisk kobling, rask telling](fysisk-rask.mp4)
+
 ![Fysisk kobling, rask telling, nær](fysisk-rask-nær.mp4)
